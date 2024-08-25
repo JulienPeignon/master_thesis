@@ -1,0 +1,12 @@
+Group Effects:
+ Group Estimate Std. Error [95% Simult.  Conf. Band]  
+  2012  -0.0002      5e-04       -0.0014      0.0010  
+  2013  -0.0013      4e-04       -0.0022     -0.0003 *
+  2015  -0.0072      5e-04       -0.0082     -0.0062 *
+  2016  -0.0024      6e-04       -0.0037     -0.0010 *
+  2017  -0.0071      7e-04       -0.0087     -0.0055 *
+---
+Signif. codes: `*' confidence band does not cover 0
+
+Control Group:  Never Treated,  Anticipation Periods:  0
+Estimation Method:  Doubly Robust

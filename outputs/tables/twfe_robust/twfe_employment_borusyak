@@ -1,0 +1,12 @@
+lhs                  term        estimate std.error  conf.low conf.high
+
+residuals_employment -5         -0.00387    0.00647 -0.0166     0.00882
+residuals_employment -4         -0.00754    0.00987 -0.0269     0.0118 
+residuals_employment -3         -0.00475    0.00614 -0.0168     0.00729
+residuals_employment -2         -0.00245    0.00305 -0.00843    0.00353
+residuals_employment 0           0.00374    0.00153  0.000739   0.00674
+residuals_employment 1           0.00689    0.00215  0.00268    0.0111 
+residuals_employment 2           0.00877    0.00271  0.00347    0.0141 
+residuals_employment 3           0.0135     0.00282  0.00793    0.0190 
+residuals_employment 4           0.0145     0.00292  0.00881    0.0202 
+residuals_employment 5           0.0187     0.00303  0.0128     0.0246 

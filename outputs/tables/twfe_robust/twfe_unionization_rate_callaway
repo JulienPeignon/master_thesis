@@ -1,0 +1,18 @@
+Dynamic Effects:
+ Event time Estimate Std. Error [95% Simult.  Conf. Band]  
+         -5  -0.0017     0.0017       -0.0049      0.0016  
+         -4  -0.0007     0.0011       -0.0028      0.0015  
+         -3  -0.0009     0.0015       -0.0038      0.0020  
+         -2  -0.0013     0.0012       -0.0036      0.0010  
+         -1   0.0000         NA            NA          NA  
+          0  -0.0031     0.0016       -0.0064      0.0001  
+          1  -0.0041     0.0017       -0.0075     -0.0008 *
+          2  -0.0032     0.0018       -0.0067      0.0003  
+          3  -0.0039     0.0022       -0.0082      0.0003  
+          4  -0.0029     0.0013       -0.0055     -0.0002 *
+          5  -0.0045     0.0013       -0.0072     -0.0019 *
+---
+Signif. codes: `*' confidence band does not cover 0
+
+Control Group:  Never Treated,  Anticipation Periods:  0
+Estimation Method:  Doubly Robust
