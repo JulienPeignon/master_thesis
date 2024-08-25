@@ -1,0 +1,12 @@
+lhs             term         estimate std.error conf.low conf.high
+
+residuals_union -5          0.000172   0.000864 -0.00152   0.00186
+residuals_union -4          0.000840   0.00101  -0.00113   0.00281
+residuals_union -3          0.0000296  0.00167  -0.00324   0.00330
+residuals_union -2          0.000502   0.000975 -0.00141   0.00241
+residuals_union 0          -0.00222    0.000257 -0.00272  -0.00172
+residuals_union 1          -0.00303    0.000299 -0.00361  -0.00244
+residuals_union 2          -0.00213    0.000322 -0.00276  -0.00149
+residuals_union 3          -0.00259    0.000291 -0.00316  -0.00202
+residuals_union 4          -0.00174    0.000294 -0.00232  -0.00117
+residuals_union 5          -0.00333    0.000352 -0.00402  -0.00264

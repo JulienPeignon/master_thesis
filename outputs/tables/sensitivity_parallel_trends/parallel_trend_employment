@@ -1,0 +1,7 @@
+  lb        ub  method  Delta    Mbar
+
+0.00156  0.0134 C-LF   DeltaRM   0.1
+-0.00147 0.0166 C-LF   DeltaRM   0.2
+-0.00510 0.0201 C-LF   DeltaRM   0.3
+-0.00889 0.0237 C-LF   DeltaRM   0.4
+-0.0127  0.0274 C-LF   DeltaRM   0.5
